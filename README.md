@@ -66,12 +66,13 @@ j)	What are the top 10 cars driven by the highest donors
 
 
 ## Analysis
-
 After conducting an in-depth analysis of the dataset, we have identified key challenges that the company faces and have formulated the following recommendations to address them effectively:
-##Challenges:
 
+## Challenges
 _•	Increase the number of donors in your database._
+
 _•	Increase the donation frequency of your donors._
+
 _•	Increase the value of donations in your database._
 
 
